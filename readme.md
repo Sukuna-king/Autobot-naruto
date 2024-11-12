@@ -1,16 +1,27 @@
-<img src="https://i.ibb.co/pwTrDSR/image.jpg" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 🔵𝑰𝑺𝑬𝑲𝑨𝑰-𝑨𝑼𝑻𝑶𝑩𝑶𝑻🔴</h>
+<img src="https://i.imgur.com/AfteCA6.jpeg" alt="banner">
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 𝙉𝘼𝙍𝙐𝙏𝙊 𝙐𝙕𝙐𝙈𝘼𝙆𝙄...(A͟U͟T͟O͟B͟O͟T͟)</h>
 
 
 
-# 𝑪𝑬 𝑺𝑰𝑻𝑬 𝑬𝑺𝑻 𝑳𝑨 𝑷𝑶𝑼𝑹 𝑽𝑶𝑼𝑺 𝑨𝑰𝑫𝑬𝒁 𝑨 𝑪𝑹𝑬𝑬𝒁 𝑫𝑬𝑺 𝑨𝑼𝑻𝑶𝑩𝑶𝑻 𝑭𝑨𝑪𝑰𝑳𝑬𝑴𝑬𝑵𝑻😌
+
+🚀 𝗨𝗡 𝗧𝗥𝗘𝗦𝗢𝗥𝗘 𝗗𝗘𝗦𝗜𝗚𝗡 𝗣𝗢𝗨𝗥 𝗟𝗘𝗦 𝗙𝗔𝗡𝗦 𝗗𝗘 𝗡𝗔𝗥𝗨𝗧𝗢! 🔥
+
+💻 𝗖𝗘 𝗦𝗜𝗧𝗘 𝗘𝗦𝗧 𝗟𝗔 𝗣𝗢𝗨𝗥 𝗩𝗢𝗨𝗦! Si vous êtes passionné par Naruto, préparez-vous à plonger dans un univers incroyable grâce à un autobot Naruto créé par Shizuka Junior ! 🚀
+
+𝗠𝗔𝗜𝗦𝗢𝗡 𝗗𝗘 𝗟𝗔 𝗖𝗥𝗘𝗔𝗧𝗜𝗢𝗡 𝗡𝗔𝗥𝗨𝗧𝗢 💥
+
+🌟𝗢𝗪𝗡𝗘𝗥 : Shizuka Junior – Le maître du design animé! ✨
+
+🔗 𝗙𝗕 𝗟𝗜𝗡𝗞 : https://www.facebook.com/shizuka.junior.KING
 
 
-# 𝑺𝑰 𝑽𝑶𝑼𝑺 𝑬̂𝑻𝑬𝑺 𝑨𝑹𝑹𝑰𝑽𝑬́ 𝑪𝑬𝑳𝑨 𝑽𝑬𝑼𝑿 𝑫𝑰𝑹𝑬 𝑸𝑼𝑬 𝑽𝑶𝑼𝑺 𝑨𝑽𝑬𝒁 𝑽𝑼 𝑴𝑶𝑵𝑻𝑼𝑻𝑶 💝
+---
+
+💥 Venez découvrir un univers Naruto 2.0 ! Le design, les graphismes, et tout ce que vous aimez dans Naruto, réinventés par l’autobot unique de Shizuka Junior ! 🔥
+
+📲 𝗠𝗲𝗿𝗰𝗶 𝗽𝗼𝘂𝗿 𝗹𝗮 𝘃𝗼𝘁𝗿𝗲 𝗲𝘀𝗽𝗲𝗿𝗮𝗻𝗰𝗲 𝗲𝘁 𝗵𝗮𝗽𝗽𝘆 𝗰𝗿𝗲𝗮𝘁𝗶𝗼𝗻 !!!
 
 
-# 🔵𝙊𝙒𝙉𝙀𝙍 : 𝑴𝒆𝒓𝒅𝒊 𝑴𝒂𝒅𝒊𝒎𝒃𝒂
+---
 
-# 𝙁𝘽 𝙇𝙄𝙉𝙆:https://www.facebook.com/merdi.madimba.39
 
-# 𝑴𝒆𝒓𝒄𝒊 𝒑𝒐𝒖𝒓 𝒗𝒐𝒕𝒓𝒆 𝒑𝒂𝒔𝒔𝒂𝒈𝒆
