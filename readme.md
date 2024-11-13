@@ -19,7 +19,7 @@
 
 💥 Venez découvrir un univers Naruto 2.0 ! Le design, les graphismes, et tout ce que vous aimez dans Naruto, réinventés par l’autobot unique de Shizuka Junior ! 🔥
 
-📲 𝗠𝗲𝗿𝗰𝗶 𝗽𝗼𝘂𝗿 𝗹𝗮 𝘃𝗼𝘁𝗿𝗲 𝗲𝘀𝗽𝗲𝗿𝗮𝗻𝗰𝗲 𝗲𝘁 𝗵𝗮𝗽𝗽𝘆 𝗰𝗿𝗲𝗮𝘁𝗶𝗼𝗻 !!!
+📲 𝗠𝗲𝗿𝗰𝗶 𝗲𝘁 𝗵𝗮𝗽𝗽𝘆 𝗰𝗿𝗲𝗮𝘁𝗶𝗼𝗻 !!!
 
 
 ---
