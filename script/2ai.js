@@ -54,7 +54,7 @@ module.exports = {
  }
  const userName = ret[event.senderID].name;
  const { response, messageID } = await getAIResponse(input, userName, event.senderID, event.messageID);
- api.sendMessage(`᯽..𝙉𝘼𝙍𝙐𝙏𝙊 𝙐𝙕𝙐𝙈𝘼𝙆𝙄..᯽\n━━━━━━━━━━━━━━━━\n⧉${response} ⧉\n━━━━━━━━━━━━━━━━`, event.threadID, messageID);
+ api.sendMessage(`᯽..𝙉𝘼𝙍𝙐𝙏𝙊 𝙐𝙕𝙐𝙈𝘼𝙆𝙄.2.0.᯽\n━━━━━━━━━━━━━━━━\n⧉${response} ⧉\n━━━━━━━━━━━━━━━━`, event.threadID, messageID);
  });
  },
  onChat: async function ({ api, event, message }) {
@@ -68,7 +68,7 @@ module.exports = {
  }
  const userName = ret[event.senderID].name;
  const { response, messageID } = await getAIResponse(input, userName, event.senderID, message.messageID);
- message.reply(`᯽..𝙉𝘼𝙍𝙐𝙏𝙊 𝙐𝙕𝙐𝙈𝘼𝙆𝙄..᯽\n━━━━━━━━━━━━━━━━\n⧉${userName} , ${response} ⧉\n━━━━━━━━━━━━━━━━\n `, messageID);
+ message.reply(`᯽..𝙉𝘼𝙍𝙐𝙏𝙊 𝙐𝙕𝙐𝙈𝘼𝙆𝙄.2.0.᯽\n━━━━━━━━━━━━━━━━\n⧉${userName} , ${response} ⧉\n━━━━━━━━━━━━━━━━\n `, messageID);
 api.setMessageReaction("✅", event.messageID, () => {}, true);
 
  });
